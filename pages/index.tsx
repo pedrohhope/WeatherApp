@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react"
 import Main from "./main"
 import axios from "axios"
 
+const apikey = process.env.API_KEY
 
 interface Iweather{
   temp:string;
@@ -20,7 +21,6 @@ export default function Home() {
 
   async function getWeather(){
     try{
-    const apikey = process.env.WEATHER_API_KEY
     const getApiKey = await axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${input || 'Brasil'}&units=metric&appid=${apikey}&lang=pt_br`)
     const ApiData = getApiKey.data
     console.log(apikey)
