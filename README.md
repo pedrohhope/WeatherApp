@@ -1,5 +1,5 @@
 <h1>Primeiros Contatos</h1>
-<p>Estou começando a ter meus primeiros contatos com ReactJS, com o conhecimento que eu tenho, me desafiei a fazer esse desafio<p>
+<p>Estou começando a ter meus primeiros contatos com ReactJS, com o conhecimento que eu tenho, me desafiei a fazer esse App de Clima:<p>
 
 <h2>Seja Bem-Vindo ao WeatherApp<h2>
 <img src=""></img>
