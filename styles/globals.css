@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8c85e7;
+}
+
+.main-content{
+  display: flex;
+  justify-content: flex-start;
+  height: 60vh;
+  width: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 3%;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.507);
+}
+
+.main-submit{
+  display: flex;
+  flex-direction: row;
+}
+
+.stateTime{
+  position: absolute;
+  top: 23%;
+  right: 32%;
+  font-weight: bold;
+}
+
+.main-submit input{
+  height: 2.5rem;
+  width: 13rem;
+  padding-left: 0.625rem;
+  transition: 0.5s;
+}
+
+.main-submit input:focus{
+  width: 14rem;
+}
+
+.main-submit button{
+  width: 6.25rem;
+  cursor: pointer;
+  border: none;
+  background-color: #8c85e7;
+  color: white;
+  transition: 0.5s;
+}
+
+.main-submit button:hover{
+  background-color: #857df0;
+}
+
+
+.main-container{
+  margin: 2.5rem;
+}
+
+.main-text{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 0.625rem;
+}
+
+.main-container p{
+  color: white;
+}
+
+.state h1{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.main-text{
+  margin-top: 1.875rem;
+}
+
+.main-text-span p{
+  font-weight: normal;
+  font-size: 10px;
+}
+
+#graus-text{
+  font-size: 80px;
+  font-weight: bold;
+}
