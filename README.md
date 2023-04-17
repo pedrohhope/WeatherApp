@@ -3,7 +3,7 @@
 
 <h2>Seja Bem-Vindo ao WeatherApp<h2>
   <a href="https://weather-app-portifolio.vercel.app/"><img src="./assets/githup-readme-img.jpg"></img></a>
-<p>>Link para acessar o projeto:<a href="https://weather-app-portifolio.vercel.app/">weatherapp.vercel.app</a></p>
+<p>Link para acessar o projeto: <a href="https://weather-app-portifolio.vercel.app/">weatherapp.vercel.app</a></p>
   
   <h3>Tecnologias Usadas:</h3>
   <ul>
