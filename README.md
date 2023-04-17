@@ -11,7 +11,7 @@ Na sua IDE:
 
 Digite:
 ```bash
-git clone
+git clone https://github.com/Heloir/WeatherApp
 ```
 Depois iremos rodar o app, dessa forma:
 ```bash
