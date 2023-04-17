@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react"
 import Main from "./main"
 import axios from "axios"
 
-const apikey = process.env.API_KEY
+const apikey = '563b96661392aa655e587a153b20e730'
 
 interface Iweather{
   temp:string;
