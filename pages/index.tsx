@@ -20,9 +20,10 @@ export default function Home() {
 
   async function getWeather(){
     try{
-    const apikey = process.env.API_KEY
+    const apikey = process.env.WEATHER_API_KEY
     const getApiKey = await axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${input || 'Brasil'}&units=metric&appid=${apikey}&lang=pt_br`)
     const ApiData = getApiKey.data
+    console.log(apikey)
     setWeather(ApiData)
     console.log(weatherState)
     } catch{
