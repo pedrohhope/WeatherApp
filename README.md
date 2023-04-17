@@ -2,8 +2,8 @@
 <p>Estou começando a ter meus primeiros contatos com ReactJS, com o conhecimento que eu tenho, me desafiei a fazer esse App de Clima:<p>
 
 <h2>Seja Bem-Vindo ao WeatherApp<h2>
-<img src="./assets/githup-readme-img.jpg"></img>
-<a href="https://weather-app-portifolio.vercel.app/">weatherapp.vercel.app</a>
+  <a href="https://weather-app-portifolio.vercel.app/"><img src="./assets/githup-readme-img.jpg"></img></a>
+<a href="https://weather-app-portifolio.vercel.app/">Link para acessar o projeto: weatherapp.vercel.app</a>
   
   <h3>Tecnologias Usadas:</h3>
   <ul>
