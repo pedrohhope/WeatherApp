@@ -9,7 +9,7 @@
   <ul>
     <li><a href="https://react.dev/">ReactJS</a>
     <li><a href="https://nextjs.org/">NextJS</a>
-    <li><a href="https://www.npmjs.com/package/axios">Axios</a>
+    <li><a href="https://www.npmjs.com/package/axios" style="color:purple">Axios</a>
     <li><a href="https://www.typescriptlang.org/">TypeScript</a>
     <li><a href="https://nodejs.org/">NodeJS</a>
     <li><a href="https://openweathermap.org/api">OpenWeather</a>
