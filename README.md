@@ -13,7 +13,7 @@
     <li><a href="https://www.typescriptlang.org/">TypeScript</a>
     <li><a href="https://nodejs.org/">NodeJS</a>
     <li><a href="https://openweathermap.org/api">OpenWeather</a>
-    <li><a hreft="https://developer.mozilla.org/pt-BR/docs/Web/CSS/#:~:text=CSS%20(Cascading%20Style%20Sheets%20ou,SVG%2C%20MathML%20ou%20XHTML)">CSS</a>
+    <li><a hreft="https://developer.mozilla.org/pt-BR/docs/Web/CSS/#:~:text=CSS%20(Cascading%20Style%20Sheets%20ou,SVG%2C%20MathML%20ou%20XHTML">CSS</a>
   </ul>
 
 <h4>Importe Localmente<h4>
