@@ -4,8 +4,18 @@
 <h2>Seja Bem-Vindo ao WeatherApp<h2>
 <img src=""></img>
 <a href="https://weather-app-portifolio.vercel.app/">weatherapp.vercel.app</a>
+  
+  <h3>Tecnologias Usadas:</h3>
+  <ul>
+    <li><a href="https://react.dev/">ReactJS</a>
+    <li><a href="https://nextjs.org/">NextJS</a>
+    <li><a href="https://www.npmjs.com/package/axios">Axios</a>
+    <li><a href="https://www.typescriptlang.org/">TypeScript</a>
+    <li><a href="https://nodejs.org/">NodeJS</a>
+    <li><a href="https://openweathermap.org/api">OpenWeather</a>
+  </ul>
 
-<h3>Importe Localmente<h3>
+<h4>Importe Localmente<h4>
   
 Na sua IDE:
 
