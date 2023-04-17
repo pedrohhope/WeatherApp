@@ -9,10 +9,11 @@
   
 Na sua IDE:
 
+Digite:
 ```bash
 git clone
 ```
-
+Depois iremos rodar o app, dessa forma:
 ```bash
 npm run dev
 # or
