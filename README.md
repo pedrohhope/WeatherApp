@@ -1,4 +1,4 @@
-<h1>Primeiros Contatos</h1>
+<h1>WeatherApp</h1>
 <p>Estou começando a ter meus primeiros contatos com ReactJS, com o conhecimento que eu tenho, me desafiei a fazer esse App de Clima:<p>
 
 <h2>Seja Bem-Vindo ao WeatherApp<h2>
