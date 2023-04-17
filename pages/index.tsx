@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react"
 import Main from "./main"
 import axios from "axios"
-import * as dotenv from 'dotenv'
-dotenv.config()
 
 
 interface Iweather{
@@ -22,7 +20,7 @@ export default function Home() {
 
   async function getWeather(){
     try{
-    const apikey = process.env.WEATHER_API_KEY
+    const apikey = '563b96661392aa655e587a153b20e730'
     const getApiKey = await axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${input || 'Brasil'}&units=metric&appid=${apikey}&lang=pt_br`)
     const ApiData = getApiKey.data
     console.log(apikey)
